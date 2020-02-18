@@ -1,5 +1,5 @@
 # InfectStatistic-111700516
-疫情统计
+## 疫情统计
 <br/>
 项目：
 [*链接*](https://github.com/LinLing1027/InfectStatistic-main)
@@ -8,5 +8,6 @@
 <br/>
 作业链接：
 [*链接*](https://edu.cnblogs.com/campus/fzu/2020SpringW/homework/10281)
+<br/>
 博客链接：
 [*链接*](https://www.cnblogs.com/LinLing27/p/12328827.html)
